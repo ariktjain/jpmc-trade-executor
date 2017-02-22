@@ -1,0 +1,232 @@
+[
+  {
+    "entity": "foo",
+    "bsIndicator": "B",
+    "agreedFx": 0.5,
+    "currency": "SGP",
+    "instructionDate": "2016-01-01 00:00 AM UTC",
+    "settlementDate": "2016-01-02 00:00 AM UTC",
+    "units": 200,
+    "perUnitPrice": 100.25
+  },
+  {
+    "entity": "bar",
+    "bsIndicator": "S",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 450,
+    "perUnitPrice": 150.5
+  },
+  {
+    "entity": "entity3",
+    "bsIndicator": "S",
+    "agreedFx": 1.06,
+    "currency": "EUR",
+    "instructionDate": "2016-01-09 00:00 AM UTC",
+    "settlementDate": "2016-01-11 00:00 AM UTC",
+    "units": 350,
+    "perUnitPrice": 170.25
+  },
+  {
+    "entity": "entity4",
+    "bsIndicator": "B",
+    "agreedFx": 1.24,
+    "currency": "GBP",
+    "instructionDate": "2016-01-12 00:00 AM UTC",
+    "settlementDate": "2016-01-14 00:00 AM UTC",
+    "units": 250,
+    "perUnitPrice": 350.85
+  },
+  {
+    "entity": "entity5",
+    "bsIndicator": "B",
+    "agreedFx": 0.015,
+    "currency": "INR",
+    "instructionDate": "2016-01-15 00:00 AM UTC",
+    "settlementDate": "2016-01-17 00:00 AM UTC",
+    "units": 112,
+    "perUnitPrice": 567.50
+  },
+  {
+    "entity": "entity6",
+    "bsIndicator": "B",
+    "agreedFx": 0.77,
+    "currency": "AUD",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 33,
+    "perUnitPrice": 223
+  },
+  {
+    "entity": "entity7",
+    "bsIndicator": "B",
+    "agreedFx": 0.56,
+    "currency": "AZN",
+    "instructionDate": "2016-01-23 00:00 AM UTC",
+    "settlementDate": "2016-01-24 00:00 AM UTC",
+    "units": 184,
+    "perUnitPrice": 444
+  },
+  {
+    "entity": "entity8",
+    "bsIndicator": "S",
+    "agreedFx": 0.0016,
+    "currency": "XAF",
+    "instructionDate": "2016-01-25 00:00 AM UTC",
+    "settlementDate": "2016-01-27 00:00 AM UTC",
+    "units": 55,
+    "perUnitPrice": 44.80
+  },
+  {
+    "entity": "entity9",
+    "bsIndicator": "S",
+    "agreedFx": 0.76,
+    "currency": "CAD",
+    "instructionDate": "2016-01-15 00:00 AM UTC",
+    "settlementDate": "2016-01-17 00:00 AM UTC",
+    "units": 654,
+    "perUnitPrice": 343.43
+  },
+  {
+    "entity": "entity10",
+    "bsIndicator": "S",
+    "agreedFx": 0.063,
+    "currency": "EGP",
+    "instructionDate": "2016-01-06 00:00 AM UTC",
+    "settlementDate": "2016-01-08 00:00 AM UTC",
+    "units": 111,
+    "perUnitPrice": 222
+  },
+  {
+    "entity": "entity11",
+    "bsIndicator": "S",
+    "agreedFx": 0.27,
+    "currency": "SAR",
+    "instructionDate": "2016-01-16 00:00 AM UTC",
+    "settlementDate": "2016-01-18 00:00 AM UTC",
+    "units": 565,
+    "perUnitPrice": 300.25
+  },
+  {
+    "entity": "entity12",
+    "bsIndicator": "B",
+    "agreedFx": 0.27,
+    "currency": "SAR",
+    "instructionDate": "2016-01-16 00:00 AM UTC",
+    "settlementDate": "2016-01-18 00:00 AM UTC",
+    "units": 100,
+    "perUnitPrice": 240.75
+  },
+  {
+    "entity": "entity13",
+    "bsIndicator": "B",
+    "agreedFx": 0.5,
+    "currency": "SGP",
+    "instructionDate": "2016-01-01 00:00 AM UTC",
+    "settlementDate": "2016-01-02 00:00 AM UTC",
+    "units": 200,
+    "perUnitPrice": 100.25
+  },
+  {
+    "entity": "entity14",
+    "bsIndicator": "S",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 1000,
+    "perUnitPrice": 56.25
+  },
+  {
+    "entity": "entity15",
+    "bsIndicator": "S",
+    "agreedFx": 1.06,
+    "currency": "EUR",
+    "instructionDate": "2016-01-09 00:00 AM UTC",
+    "settlementDate": "2016-01-11 00:00 AM UTC",
+    "units": 200,
+    "perUnitPrice": 870.25
+  },
+  {
+    "entity": "entity16",
+    "bsIndicator": "B",
+    "agreedFx": 1.24,
+    "currency": "GBP",
+    "instructionDate": "2016-01-12 00:00 AM UTC",
+    "settlementDate": "2016-01-14 00:00 AM UTC",
+    "units": 200,
+    "perUnitPrice": 950.85
+  },
+  {
+    "entity": "entity17",
+    "bsIndicator": "B",
+    "agreedFx": 0.015,
+    "currency": "INR",
+    "instructionDate": "2016-01-15 00:00 AM UTC",
+    "settlementDate": "2016-01-17 00:00 AM UTC",
+    "units": 110,
+    "perUnitPrice": 460.67
+  },
+  {
+    "entity": "entity18",
+    "bsIndicator": "B",
+    "agreedFx": 0.77,
+    "currency": "AUD",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 340,
+    "perUnitPrice": 100
+  },
+  {
+    "entity": "entity19",
+    "bsIndicator": "B",
+    "agreedFx": 0.56,
+    "currency": "AZN",
+    "instructionDate": "2016-01-23 00:00 AM UTC",
+    "settlementDate": "2016-01-24 00:00 AM UTC",
+    "units": 555,
+    "perUnitPrice": 445
+  },
+  {
+    "entity": "entity8",
+    "bsIndicator": "B",
+    "agreedFx": 0.0016,
+    "currency": "XAF",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 55,
+    "perUnitPrice": 44.80
+  },
+  {
+    "entity": "entity9",
+    "bsIndicator": "B",
+    "agreedFx": 0.76,
+    "currency": "CAD",
+    "instructionDate": "2016-01-05 00:00 AM UTC",
+    "settlementDate": "2016-01-07 00:00 AM UTC",
+    "units": 1000,
+    "perUnitPrice": 350.43
+  },
+  {
+    "entity": "entity10",
+    "bsIndicator": "B",
+    "agreedFx": 0.063,
+    "currency": "EGP",
+    "instructionDate": "2016-01-16 00:00 AM UTC",
+    "settlementDate": "2016-01-18 00:00 AM UTC",
+    "units": 500,
+    "perUnitPrice": 200.50
+  },
+  {
+    "entity": "entity20",
+    "bsIndicator": "S",
+    "agreedFx": 0.27,
+    "currency": "SAR",
+    "instructionDate": "2016-01-16 00:00 AM UTC",
+    "settlementDate": "2016-01-18 00:00 AM UTC",
+    "units": 456,
+    "perUnitPrice": 234.25
+  }
+]
